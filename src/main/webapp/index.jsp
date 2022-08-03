@@ -14,6 +14,10 @@
 <title>Display Date</title>
 </head>
 <body>
-
+<h2>What time is it? What day is it? How long have been here? What is going on?</h2>
+<div class="container-flex">
+<p><a href="/date">Date here</a></p>
+<p><a href="/time">Time here</a></p>
+</div>
 </body>
 </html>
